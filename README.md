@@ -1,12 +1,12 @@
-# 08 Divisió entera
+# 07 Divisió entera
 
-Escriure un programa que demani a l'usuari dos nombres enters (D, d). La sortida per pantalla ha de mostrar exactament el missatge:
+Continuem practicant l'entrada i sortida amb operacions senzilles. Però aquesta vegada ens centrem a donar format a la sortida per pantalla amb l'ajut de les [cadenes amb format](<https://prgicaria.github.io/receptari/Receptes/1%20Sortida%20per%20terminal.html#sortida-amb-format>).
 
-- Divisió: D/d
-- Quocient: q
-- Residu: r
+## Objectius de la tasca
 
-Per exemple:
+Escriure un programa que demani a l'usuari dos nombres enters: dividend i divisor. La sortida per pantalla ha de mostrar la divisió, el quocient i el residu.
+
+S'espera que la sortida tingui un aspecte molt específic, com l'exemple:
 
 ```txt
 Divisió: 45/4
@@ -14,11 +14,15 @@ Quocient: 11
 Residu: 1
 ```
 
-El lliurament ha d'incloure:
+## Lliurament
 
-1. Diagrama de flux amb el nom **08_divisio_flux.pdf**
-2. El programa amb el nom: **08_divisio.py**
+El lliurament ha d'incloure diagrama de flux i programa:
 
-El lliurament s'ha de fer a: <https://classroom.github.com/a/pID6DWbJ>
+```txt
+divisio_flux.pdf
+divisio.py
+```
 
-NOTA: per a que el lliurament sigui correcte del tot cal jugar amb el separadors de print().
+El lliurament s'ha de fer a: <https://classroom.github.com/a/RTGWfMzF>
+
+**Nota: tasca de 5 punts.**
