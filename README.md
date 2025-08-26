@@ -23,6 +23,6 @@ divisio_flux.pdf
 divisio.py
 ```
 
-El lliurament s'ha de fer a: <https://classroom.github.com/a/RTGWfMzF>
+El lliurament s'ha de fer a: <https://classroom.github.com/a/CKee3_Dq>
 
 **Nota: tasca de 5 punts.**
